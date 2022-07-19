@@ -60,6 +60,10 @@ def handle_message(event):
     elif '訂位' in msg:
         r == '你想訂位，是嗎？'
 
+
+    # rule-based
+    # NLP natural language processing
+
     
 
 
